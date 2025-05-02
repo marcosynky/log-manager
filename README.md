@@ -1,4 +1,4 @@
-<h1>log-manager - Gerenciador de Logs</h1>
+<h1>Log-manager - Gerenciador de Logs</h1>
 
 <h2>📖 Sobre</h2>
 <p>log-manager é um projeto de gerenciamento de logs em Java, que utiliza o padrão de design <strong>Singleton</strong> para garantir que a aplicação utilize uma única instância do gerenciador de logs. Este projeto foi desenvolvido por <strong>Marco Antônio</strong>, com o objetivo de centralizar e organizar o registro de logs em um arquivo, mantendo a consistência e evitando a criação de múltiplos arquivos de log desnecessários.</p>
